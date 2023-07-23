@@ -1,0 +1,15 @@
+{
+  "contact": "discord.gg/Criminality",
+  "templates": [
+    {
+      "name": "Crim Logo",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/921625839693598751/1132524383894773871/crim.png"
+      ],
+      "x": 0,
+      "y": 389
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
